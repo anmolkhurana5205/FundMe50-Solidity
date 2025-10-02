@@ -1,3 +1,5 @@
+<img width="332" height="548" alt="Screenshot 2025-10-02 184701" src="https://github.com/user-attachments/assets/f1847a16-6858-464a-a04d-c27aca4834f8" />
+
 # FundMe50-Solidity
 This is a simple crowdfunding contract built in Solidity.  (contract hash - 0x09A16A52A5225608f5B06010f98CeD4Bf5E71457 on sapolia testnet)
 
