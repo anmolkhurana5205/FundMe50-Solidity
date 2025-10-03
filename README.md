@@ -1,4 +1,7 @@
-<img width="332" height="548" alt="Screenshot 2025-10-02 184701" src="https://github.com/user-attachments/assets/f1847a16-6858-464a-a04d-c27aca4834f8" />
+<img width="332" height="502" alt="final version of the FundMe50 contract" src="https://github.com/user-attachments/assets/aa052e24-6ffe-419e-8bbb-84d490b1c58e" />
+
+# 🥳🥳 Contract is now Verified and Published 
+Now anyone can interact with the contract (`https://sepolia.etherscan.io/address/0x027c7a6b6e8793c239df22ee69cd7dca950e95ea#writeContract`)
 
 # FundMe50-Solidity
 This is a simple crowdfunding contract built in Solidity.  (contract hash - 0x027c7a6b6e8793c239df22ee69cd7dca950e95ea on sapolia testnet)
