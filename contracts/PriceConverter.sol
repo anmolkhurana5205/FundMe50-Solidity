@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-import "@chainlink/contracts@1.4.0/src/v0.8/shared/interfaces/AggregatorV3Interface.sol";
+import "./AggregatorV3Interface.sol";
 
 library PriceConverter {
     function getPrice() internal view returns(uint256) {
